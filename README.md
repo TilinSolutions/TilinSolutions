@@ -1,7 +1,7 @@
 # 🚀 Welcome to Tilin Solutions
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=28&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines= Tilines+Del+Sur;Full-Stack+Excellence;Cloud-Native+Solutions;Future-Ready+Development" alt="Animated Typing Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=28&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines= Tilines+Del+Sur;Back-End+Excellence;Cloud-Native+Solutions;Future-Ready+Development" alt="Animated Typing Header">
 </div>
 
 ## 💡 Who We Are
